@@ -1,5 +1,6 @@
+---
 Write-up: Pyramid of Pain - TryHackMe
-
+---
 
 Objective:
 The goal of this room was to understand and apply the Pyramid of Pain model to enhance my ability to detect and mitigate various types of indicators of compromise (IOCs) in the context of security operations. This model, introduced by David Bianco, classifies IOCs into different levels based on the ease of detection and the difficulty for an attacker to change or avoid them. The task involved learning how to identify and address IOCs at various levels, from basic hash values to advanced tactics, techniques, and procedures (TTPs).
